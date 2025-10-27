@@ -1,0 +1,41 @@
+.topheader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.siteheader {
+    max-width: 600px;
+    background-color: mediumspringgreen;
+    margin: auto;
+}
+
+.globalnav {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.navlink {
+    padding: 10px;
+
+}
+
+.wrapper {
+    max-width: 600px;
+    background-color: steelblue;
+    margin: auto;
+    display: flex;
+}
+
+.maincontent {
+    padding: 20px;
+    background-color: crimson;
+}
+
+.asidecolor {
+    background-color: plum;
+    margin-right: 30px;
+}
+
